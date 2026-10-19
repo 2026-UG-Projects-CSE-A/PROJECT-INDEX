@@ -1,64 +1,57 @@
 
-# VAST-CSE — Student Project Directory
+# VAST-CSE — Main Project Directory
 
-Official directory of CSE student projects, organized by academic year, project type, batch, and team.
+Official directory of final-year CSE main projects at Vidya Academy of Science and Technology.
 
-## Academic Year 2026–27
+Projects are organized by student cohort, class subdivision, and team. Each team has its own repository.
 
-### Final-Year Main Projects (S7/S8)
+## Cohort: 2023–27
 
-| Batch | Team | Project Title | Repository |
-|---|---|---|---|
-| A1 | Team 01 | Project title | Repository link |
-| A2 | Team 01 | Project title | Repository link |
-| B1 | Team 01 | Project title | Repository link |
-| B2 | Team 01 | Project title | Repository link |
-| C1 | Team 01 | Project title | Repository link |
-| C2 | Team 01 | Project title | Repository link |
-| D1 | Team 01 | Project title | Repository link |
-| D2 | Team 01 | Project title | Repository link |
+### Main Projects
 
-### Third-Year Mini Projects (S5/S6)
+| Subdivision | Team | Project Title | Project Guide | Repository |
+|---|---|---|---|---|
+| A1 | Team 01 | To be added | To be assigned | Add link |
+| A2 | Team 01 | To be added | To be assigned | Add link |
+| B1 | Team 01 | To be added | To be assigned | Add link |
+| B2 | Team 01 | To be added | To be assigned | Add link |
+| C1 | Team 01 | To be added | To be assigned | Add link |
+| C2 | Team 01 | To be added | To be assigned | Add link |
+| D1 | Team 01 | To be added | To be assigned | Add link |
+| D2 | Team 01 | To be added | To be assigned | Add link |
 
-| Batch | Team | Project Title | Repository |
-|---|---|---|---|
-| A1 | Team 01 | Project title | Repository link |
-| A2 | Team 01 | Project title | Repository link |
-| B1 | Team 01 | Project title | Repository link |
-| B2 | Team 01 | Project title | Repository link |
-| C1 | Team 01 | Project title | Repository link |
-| C2 | Team 01 | Project title | Repository link |
-| D1 | Team 01 | Project title | Repository link |
-| D2 | Team 01 | Project title | Repository link |
+Add one row for every project team. A subdivision can have multiple teams.
 
 ## Repository Naming Convention
 
-YEAR-SEMESTER-TYPE-BATCH-TEAMNUMBER
+Format:
+
+COHORT-MAIN-SUBBATCH-TEAMNUMBER
 
 Examples:
 
-- `2026-27-S7-MAIN-A1-TEAM01`
-- `2026-27-S7-MAIN-A2-TEAM01`
-- `2026-27-S5-MINI-B1-TEAM02`
-- `2026-27-S5-MINI-B2-TEAM03`
+- `2023-27-MAIN-A1-TEAM01`
+- `2023-27-MAIN-A1-TEAM02`
+- `2023-27-MAIN-B2-TEAM01`
 
-## Project Requirements
-
-Every team repository should include:
+## Requirements for Every Project Repository
 
 - Project title and abstract
-- Team members and project guide
 - Problem statement and objectives
+- Team members and project guide
 - Technologies used
 - Installation and execution instructions
 - Screenshots or demo link
-- Project report and presentation, where required
+- Project report and presentation, as required
 
-## Previous Academic Years
+## Submission and Evaluation
 
-Add a separate section for each completed academic year.
+1. Students maintain their working repositories.
+2. An official copy is created in the VAST-CSE organization.
+3. The project guide reviews the source code and documentation.
+4. The coordinator adds the repository link to this directory.
+5. Approved projects may be published for juniors to explore.
 
 ## Publication Policy
 
-Keep projects private until the department approves publication.
-Check for secrets, credentials, personal data, and confidential information before making any repository public.
+Keep projects private during evaluation unless the department approves otherwise. Check for API keys, passwords, confidential information, and personal data before publishing projects publicly.
