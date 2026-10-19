@@ -11,7 +11,7 @@ Projects are organized by student cohort, class subdivision, and team. Each team
 
 | Subdivision | Team | Project Name | Project Guide | Repository |
 |---|---|---|---|---|
-| A1 | Team 01 | To be added | To be assigned | Add link |
+| A1 | Team 01 | AegisSys | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A1-TEAM01-AegisSys) |
 | A1 | Team 02 | To be added | To be assigned | Add link |
 | A2 | Team 01 | To be added | To be assigned | Add link |
 | B1 | Team 01 | To be added | To be assigned | Add link |
