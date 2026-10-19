@@ -1,66 +1,62 @@
 
 # VAST-CSE — Main Project Directory
 
-Official directory of final-year CSE main projects at Vidya Academy of Science and Technology.
+Official directory of CSE final-year main projects.
 
-Projects are organized by student cohort, class subdivision, and team. Each team has its own repository in the VAST-CSE GitHub Organization.
+## Cohort 2023–27
 
-## Cohort: 2023–27
+### Batch A1
 
-### Main Projects
+| Team | Project Name | Guide | Repository |
+|---|---|---|---|
+| Team 01 | AegisSys | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A1-TEAM01-AegisSys) |
+| Team 02 | To be added | To be assigned | Add link |
 
-| Subdivision | Team | Project Name | Project Guide | Repository |
-|---|---|---|---|---|
-| A1 | Team 01 | AegisSys | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A1-TEAM01-AegisSys) |
-| A1 | Team 02 | To be added | To be assigned | Add link |
-| A2 | Team 01 | To be added | To be assigned | Add link |
-| B1 | Team 01 | To be added | To be assigned | Add link |
-| B2 | Team 01 | To be added | To be assigned | Add link |
-| C1 | Team 01 | To be added | To be assigned | Add link |
-| C2 | Team 01 | To be added | To be assigned | Add link |
-| D1 | Team 01 | To be added | To be assigned | Add link |
-| D2 | Team 01 | To be added | To be assigned | Add link |
+### Batch A2
 
-Add one row for every actual project team. A subdivision can have multiple teams.
+| Team | Project Name | Guide | Repository |
+|---|---|---|---|
+| Team 01 | To be added | To be assigned | Add link |
 
-## Repository Naming Convention
+### Batch B1
 
-Format:
+| Team | Project Name | Guide | Repository |
+|---|---|---|---|
+| Team 01 | To be added | To be assigned | Add link |
 
-COHORT-MAIN-SUBBATCH-TEAMNUMBER-PRODUCTNAME
+### Batch B2
 
-Examples:
+Add the project teams for Batch B2 here.
 
-- `2023-27-MAIN-A1-TEAM01-AegisSys`
-- `2023-27-MAIN-A1-TEAM02-CampusConnect`
-- `2023-27-MAIN-B2-TEAM01-VidyaVault`
+### Batch C1 and C2
 
-Use the team's actual product name at the end of the repository name.
+Add the project teams for batches C1 and C2 here.
 
-## Requirements for Every Project Repository
+### Batch D1 and D2
+
+Add the project teams for batches D1 and D2 here.
+
+## Cohort 2024–28
+
+Add main projects here when available.
+
+## Cohort 2025–29
+
+Add main projects here when available.
+
+## Project Requirements
+
+Each team repository should include:
 
 - Project title and abstract
-- Problem statement and objectives
 - Team members and project guide
+- Problem statement and objectives
 - Technologies used
 - Installation and execution instructions
 - Screenshots or demo link
-- Project report and presentation, as required
-
-## Submission and Evaluation
-
-1. Students continue developing in their personal GitHub repositories.
-2. An official copy is created in the VAST-CSE organization.
-3. The project guide reviews the source code and documentation.
-4. The coordinator adds the official repository link to this directory.
-5. Approved projects may be published for juniors to explore.
+- Project report and presentation, where required
 
 ## Publication Policy
 
-Keep projects private during evaluation unless the department approves otherwise.
-
-Before publishing a project, check for API keys, passwords, confidential information, personal data, and third-party licensing restrictions.
-
-## Previous Cohorts
-
-Add a separate section for each graduating cohort when its projects are archived.
+Keep projects private during evaluation unless approved for publication.
+Check for API keys, passwords, personal data and confidential information before making projects public.
