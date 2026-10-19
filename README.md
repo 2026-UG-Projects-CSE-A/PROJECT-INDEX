@@ -3,15 +3,16 @@
 
 Official directory of final-year CSE main projects at Vidya Academy of Science and Technology.
 
-Projects are organized by student cohort, class subdivision, and team. Each team has its own repository.
+Projects are organized by student cohort, class subdivision, and team. Each team has its own repository in the VAST-CSE GitHub Organization.
 
 ## Cohort: 2023–27
 
 ### Main Projects
 
-| Subdivision | Team | Project Title | Project Guide | Repository |
+| Subdivision | Team | Project Name | Project Guide | Repository |
 |---|---|---|---|---|
 | A1 | Team 01 | To be added | To be assigned | Add link |
+| A1 | Team 02 | To be added | To be assigned | Add link |
 | A2 | Team 01 | To be added | To be assigned | Add link |
 | B1 | Team 01 | To be added | To be assigned | Add link |
 | B2 | Team 01 | To be added | To be assigned | Add link |
@@ -20,19 +21,21 @@ Projects are organized by student cohort, class subdivision, and team. Each team
 | D1 | Team 01 | To be added | To be assigned | Add link |
 | D2 | Team 01 | To be added | To be assigned | Add link |
 
-Add one row for every project team. A subdivision can have multiple teams.
+Add one row for every actual project team. A subdivision can have multiple teams.
 
 ## Repository Naming Convention
 
 Format:
 
-COHORT-MAIN-SUBBATCH-TEAMNUMBER
+COHORT-MAIN-SUBBATCH-TEAMNUMBER-PRODUCTNAME
 
 Examples:
 
-- `2023-27-MAIN-A1-TEAM01`
-- `2023-27-MAIN-A1-TEAM02`
-- `2023-27-MAIN-B2-TEAM01`
+- `2023-27-MAIN-A1-TEAM01-AegisSys`
+- `2023-27-MAIN-A1-TEAM02-CampusConnect`
+- `2023-27-MAIN-B2-TEAM01-VidyaVault`
+
+Use the team's actual product name at the end of the repository name.
 
 ## Requirements for Every Project Repository
 
@@ -46,12 +49,18 @@ Examples:
 
 ## Submission and Evaluation
 
-1. Students maintain their working repositories.
+1. Students continue developing in their personal GitHub repositories.
 2. An official copy is created in the VAST-CSE organization.
 3. The project guide reviews the source code and documentation.
-4. The coordinator adds the repository link to this directory.
+4. The coordinator adds the official repository link to this directory.
 5. Approved projects may be published for juniors to explore.
 
 ## Publication Policy
 
-Keep projects private during evaluation unless the department approves otherwise. Check for API keys, passwords, confidential information, and personal data before publishing projects publicly.
+Keep projects private during evaluation unless the department approves otherwise.
+
+Before publishing a project, check for API keys, passwords, confidential information, personal data, and third-party licensing restrictions.
+
+## Previous Cohorts
+
+Add a separate section for each graduating cohort when its projects are archived.
