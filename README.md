@@ -9,8 +9,8 @@ Official directory of CSE final-year main projects.
 
 | Team | Project Name | Guide | Repository |
 |---|---|---|---|
-| Team 01 | AegisSys | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A1-TEAM01-AegisSys) |
-| Team 02 | To be added | To be assigned | Add link |
+| A1 | AegisSys | To be assigned | [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A1-AegisSys) |
+| A2 | TrustLens | To be assigned |  [View Project](https://github.com/VAST-CSE/2023-27-MAIN-A2-TrustLens)  |
 
 ### Batch A2
 
